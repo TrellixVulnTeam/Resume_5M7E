@@ -60,7 +60,7 @@ export function InfoAuthor() {
       <p>
         <a href="https://github.com/COD-ESA/Resume/tree/master" className={cssTheme}> Первый - source данного Resume</a>
           <hr />
-        <a href="https://github.com/Sirius100/Todo" className={cssTheme}>Второй - source app Todo </a>
+        <a href="https://github.com/Sirius100/ModifTodo" className={cssTheme}>Второй - source app Todo </a>
           <hr />
         <a href="https://sirius100.github.io/" className={cssTheme}>онлайн версия app Todo</a>
         <hr />
